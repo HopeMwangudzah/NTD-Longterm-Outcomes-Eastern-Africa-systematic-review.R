@@ -14,7 +14,7 @@ Sensitivity.R	Sensitivity analyses assessing the robustness of pooled estimates.
 Funnel plot.R	Funnel plots for assessing potential publication bias.
 Requirements
 
-Analyses were conducted in R (version [add your version]) using the meta package.
+Analyses were conducted in R (version version 4.5.3) using the meta package.
 
 Data
 
